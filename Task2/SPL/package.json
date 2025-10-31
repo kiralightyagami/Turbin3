@@ -1,0 +1,35 @@
+{
+  "name": "flux-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "create-mint": "yarn ts-node ./src/create-mint.ts",
+    "add-metadata": "yarn ts-node ./src/add-metadata.ts",
+    "mint-tokens": "yarn ts-node ./src/mint-tokens.ts",
+    "build": "yarn tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/prompt-sync": "^4.2.3",
+    "eslint": "^9.38.0",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/mpl-toolbox": "^0.10.0",
+    "@metaplex-foundation/umi": "^1.4.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.4.1",
+    "@metaplex-foundation/umi-web3js-adapters": "^1.4.1",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/spl-token-metadata": "^0.1.6",
+    "@solana/web3.js": "1",
+    "prompt-sync": "^4.2.0"
+  }
+}
