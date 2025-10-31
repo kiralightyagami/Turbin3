@@ -1,6 +1,6 @@
 # Vault
 
-**A secure vault for storing DRT tokens on Solana.**
+**A secure vault for storing tokens on Solana.**
 
 a token vault system on Solana Devnet that stores KIR tokens towards a target amount. 
 
