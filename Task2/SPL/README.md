@@ -7,7 +7,7 @@
 **Token Address:** `6in59XC7jA4m5VYuYghR6uj5XoTGhGgAUNW2ufGwou1k`
 
 ![Token Info](./Asset/Token.png)
-![Sol Scan](./Asset/Sol-Scan-png)
+![Sol Scan](./Asset/Sol-Scan.png)
 
 [View on Solana Scan](https://solscan.io/token/6in59XC7jA4m5VYuYghR6uj5XoTGhGgAUNW2ufGwou1k?cluster=devnet)
 
