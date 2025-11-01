@@ -1,6 +1,6 @@
 import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
-import { ThemisEscrow } from "../target/types/escrow";
+import { Escrow } from "../target/types/escrow";
 import {
   ASSOCIATED_TOKEN_PROGRAM_ID,
   createMint,
@@ -16,7 +16,7 @@ describe("escrow", () => {
   const provider = anchor.AnchorProvider.env();
   anchor.setProvider(provider);
 
-  const program = anchor.workspace.ThemisEscrow as Program<ThemisEscrow>;
+  const program = anchor.workspace.Escrow as Program<Escrow>;
 
   const maker = anchor.web3.Keypair.generate();
   const taker = anchor.web3.Keypair.generate();

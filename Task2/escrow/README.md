@@ -2,7 +2,9 @@ Escrow Program
 
 A simple and secure escrow program built on the Solana Devnet.
 
-I will add ss later 
+## Screenshot
+
+![Escrow Screenshot](Screenshot1.png) 
 
 ## Setup and Usage
 
@@ -32,7 +34,7 @@ Ensure your environment is configured for Devnet in Anchor.toml:
 
 ```toml
 [programs.devnet]
-themis = "<YOUR_PROGRAM_ID>"
+escrow = "<YOUR_PROGRAM_ID>"
 
 [provider]
 cluster = "devnet"

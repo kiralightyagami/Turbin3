@@ -8,7 +8,7 @@ pub mod states;
 
 use instructions::*;
 
-declare_id!("DVavfpmoh8ZArdx8WLypfV4s8WxiZoYzzCvXjG2Wo4hH");
+declare_id!("9w6uJyaL3nNkMqC1pWCb8yCiSLFnG6qqLSgEhqa3Htm7");
 
 #[program]
 pub mod vault {
