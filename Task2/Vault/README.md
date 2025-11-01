@@ -42,7 +42,7 @@ Ensure your environment is configured for Devnet in Anchor.toml:
 
 ```toml
 [programs.devnet]
-themis = "<YOUR_PROGRAM_ID>"
+vault = "<YOUR_PROGRAM_ID>"
 
 [provider]
 cluster = "devnet"
