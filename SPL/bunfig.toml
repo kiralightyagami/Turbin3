@@ -1,0 +1,8 @@
+# Bun configuration
+[install]
+# Optional: configure install behavior
+
+[run]
+# Enable if you want hot reloading
+# hot = true
+
