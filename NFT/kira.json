@@ -1,0 +1,15 @@
+{
+    "name": "Kira",
+    "symbol": "KIR",
+    "description": "Kira from Death Note.",
+    "image": "https://www.nicepng.com/png/detail/53-531474_kira-death-note.png",
+    "seller_fee_basis_points": 0,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://www.nicepng.com/png/detail/53-531474_kira-death-note.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

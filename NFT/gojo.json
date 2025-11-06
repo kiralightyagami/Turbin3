@@ -1,0 +1,16 @@
+{
+    "name": "Gojo",
+    "symbol": "GOJO",
+    "description": "Satoru Gojo from Jujutsu Kaisen.",
+    "image": "https://rosepng.com/wp-content/uploads/2024/10/screenshot_2024-10-17_153100-removebg-preview-1-174x300.png",
+    "seller_fee_basis_points": 0,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://rosepng.com/wp-content/uploads/2024/10/screenshot_2024-10-17_153100-removebg-preview-1-174x300.png",
+          "type": "image/png"
+        }
+      ]
+    }
+}
+

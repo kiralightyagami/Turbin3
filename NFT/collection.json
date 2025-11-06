@@ -1,0 +1,16 @@
+{
+  "name": "Anime Legends",
+  "symbol": "ANIME",
+  "description": "A curated anime character NFT collection for Turbin3 Week 3.",
+  "image": "https://i.redd.it/cpy5c5ziuwc51.jpg",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.redd.it/cpy5c5ziuwc51.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
+

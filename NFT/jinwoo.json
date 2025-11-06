@@ -1,0 +1,16 @@
+{
+    "name": "Jin-Woo",
+    "symbol": "JIN",
+    "description": "Sung Jin-Woo from Solo Leveling.",
+    "image": "https://pnganime.com/web/image-thumbnails/321/637-lg.png",
+    "seller_fee_basis_points": 0,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://pnganime.com/web/image-thumbnails/321/637-lg.png",
+          "type": "image/png"
+        }
+      ]
+    }
+}
+
